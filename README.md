@@ -2,7 +2,6 @@
 ![degrassi](https://github.com/user-attachments/assets/98d91a6c-2c40-4173-af5e-ffc133adba1b)
 
 
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
@@ -22,6 +21,7 @@
 ### 🧠 Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tools & Environment
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
