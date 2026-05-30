@@ -1,5 +1,6 @@
 
-![degrassi](https://github.com/user-attachments/assets/98d91a6c-2c40-4173-af5e-ffc133adba1b)
+<img width="368" height="368" alt="michael" src="https://github.com/user-attachments/assets/ad97297f-49f6-4cb9-a9a3-bcea23da4c0f" />
+
 
 
 ## 🛠️ Tech Stack
