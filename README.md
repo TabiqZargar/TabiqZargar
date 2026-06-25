@@ -1,6 +1,6 @@
 
 
-<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/dcd9272b-2f5c-4885-ab5b-b325e4130d96" />
+<img width="500px" alt="Banner" src="https://github.com/user-attachments/assets/dcd9272b-2f5c-4885-ab5b-b325e4130d96" />
 
 ```javascript
 const Tabiq = {
