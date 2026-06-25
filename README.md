@@ -45,14 +45,6 @@ const tabiq = {
 
 ---
 
-## streak
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tabiqzargar&theme=tokyonight&hide_border=true&background=0A0E27" />
-</div>
-
----
-
 ## current focus
 
 ```txt
