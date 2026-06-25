@@ -51,9 +51,11 @@ const Tabiq = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabiqzargar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&card_width=400)](https://github.com/tabiqzargar)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabiqzargar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&card_width=400&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/tabiqzargar)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabiqzargar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=ffffff&card_width=400)](https://github.com/tabiqzargar)
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tabiqzargar&theme=tokyo-night&hide_border=true&bg_color=0a0e27&title_color=00d4ff&line=00d4ff&point=00d4ff)](https://github.com/tabiqzargar)
 
 </div>
 
