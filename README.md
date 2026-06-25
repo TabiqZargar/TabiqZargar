@@ -1,3 +1,6 @@
+# README.md
+
+````md
 <div align="center">
 
 <img width="450" alt="banner" src="https://github.com/user-attachments/assets/dcd9272b-2f5c-4885-ab5b-b325e4130d96" />
@@ -11,44 +14,42 @@ const tabiq = {
   focus: ["web development", "backend systems", "ui/ux"],
   currently: "building scalable applications"
 };
-tech stack
+````
+
+---
+
+## tech stack
 
 <div align="center">
 
-frontend
+#### frontend
 
 
 
 
+\
+
+#### backend
+
+
+\
+
+#### languages
+
+
+\
+
+#### tools
 
 
 
-
-backend
-
-
-
-
-
-
-languages
-
-
-
-
-
-
-tools
-
-
-
-
-
-
+\
 
 </div>
 
-streak
+---
+
+## streak
 
 <div align="center">
 
@@ -56,7 +57,11 @@ streak
 
 </div>
 
-current focus
+---
+
+## current focus
+
+```txt
 building full-stack applications
 
 designing scalable backend systems
@@ -64,22 +69,41 @@ designing scalable backend systems
 exploring modern frontend architecture
 
 contributing to open source
-connect
+```
+
+---
+
+## connect
 
 <div align="center">
 
-<a href="https://github.com/tabiqzargar"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/tabiqzargar">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<a href="https://www.linkedin.com/in/tabiqzargar"> <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/tabiqzargar">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="https://x.com/tabiqzargar"> <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" /> </a>
+<a href="https://x.com/tabiqzargar">
+  <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-<a href="mailto:zargartabiq@gmail.com"> <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:[zargartabiq@gmail.com](mailto:zargartabiq@gmail.com)">
+  <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
+---
+
+```bash
 
 $ status
 building things and learning
 
 $ exit
+```
+
+```
+```
