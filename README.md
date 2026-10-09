@@ -2,7 +2,7 @@
 
   <img width="450" alt="Tabiq banner" src="https://github.com/user-attachments/assets/dcd9272b-2f5c-4885-ab5b-b325e4130d96" />
 
-  <h1>Tabiq Zargar</h1>
+  <h1>Tabiq</h1>
 
   <p><strong>Full-Stack Developer · Student · Builder</strong></p>
 
