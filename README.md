@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    <a href="https://tabiqzargar.github.io/portfolio/">Portfolio</a> ·
+    <a href="https://portfolio-theta-seven-euw2za8ig7.vercel.app/">Portfolio</a> ·
     <a href="https://www.linkedin.com/in/tabiqzargar">LinkedIn</a> ·
     <a href="https://x.com/tabiqzargar">X</a> ·
     <a href="mailto:zargartabiq@gmail.com">Email</a>
