@@ -1,85 +1,104 @@
-<div align="center">
-<img width="450" alt="banner" src="https://github.com/user-attachments/assets/dcd9272b-2f5c-4885-ab5b-b325e4130d96" />
+ <div align="center">
+
+  <img width="450" alt="Tabiq banner" src="https://github.com/user-attachments/assets/dcd9272b-2f5c-4885-ab5b-b325e4130d96" />
+
+  <h1>Tabiq Zargar</h1>
+
+  <p><strong>Full-Stack Developer · Student · Builder</strong></p>
+
+  <p>
+    Building web applications, designing thoughtful interfaces,<br />
+    and engineering reliable backend systems.
+  </p>
+
+  <p>
+    <a href="https://tabiqzargar.github.io/portfolio/">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/tabiqzargar">LinkedIn</a> ·
+    <a href="https://x.com/tabiqzargar">X</a> ·
+    <a href="mailto:zargartabiq@gmail.com">Email</a>
+  </p>
+
 </div>
+
+---
+
+### `$ whoami`
 
 ```js
 const tabiq = {
-  role: "full stack developer",
-  languages: ["javascript", "python", "c"],
-  focus: ["web development", "backend systems", "ui/ux"],
-  currently: "building scalable applications"
+  role: "full-stack developer",
+  languages: ["JavaScript", "Python", "C"],
+  interests: ["web development", "backend systems", "UI/UX"],
+  currently: "building and shipping projects"
 };
 ```
 
----
-
-## tech stack
-
-<div align="center">
+### `$ tech --stack`
 
 **Frontend**
 
-![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square\&logo=next.js\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
-**Backend**
+**Backend & Database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=flat-square\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-
-[![An image of @tabiqzargar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tabiqzargar)](https://holopin.io/@tabiqzargar)
-
-## current focus
-
-```txt
-building full-stack applications
-designing scalable backend systems
-exploring modern frontend architecture
-contributing to open source
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-## connect
+### `$ ls ./current-focus`
+
+* Building full-stack applications from idea to deployment.
+* Designing maintainable APIs and backend systems.
+* Exploring modern frontend architecture and UI/UX.
+* Learning through projects and contributing to open source.
+
+---
+
+### `$ open ./projects`
+
+Check out my [repositories](https://github.com/tabiqzargar?tab=repositories) to see what I'm building.
+
+---
 
 <div align="center">
-<a href="https://github.com/tabiqzargar">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/tabiqzargar">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/tabiqzargar">
-  <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="mailto:zargartabiq@gmail.com">
-  <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
+  <a href="https://holopin.io/@tabiqzargar">
+    <img src="https://holopin.me/tabiqzargar" alt="Tabiq's Holopin badges" />
+  </a>
+
+  <br />
+
+  <a href="https://github.com/tabiqzargar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/tabiqzargar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/tabiqzargar">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+
+<br /><br />
+
+<sub>Less noise. More building.</sub>
+
 </div>
-
----
-
-```bash
-$ status
-building things and learning
-$ exit
-```
