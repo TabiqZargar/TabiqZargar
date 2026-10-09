@@ -45,6 +45,9 @@ const tabiq = {
 
 ---
 
+
+[![An image of @tabiqzargar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tabiqzargar)](https://holopin.io/@tabiqzargar)
+
 ## current focus
 
 ```txt
